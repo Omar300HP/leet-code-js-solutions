@@ -20,5 +20,5 @@ npm run test
 To run a specific test, use the following command:
 
 ```bash
-npm run test <test name | file name |function name>
+npm run test <"test-name | file-name | function-name">
 ```
