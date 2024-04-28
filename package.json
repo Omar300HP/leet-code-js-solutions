@@ -1,0 +1,20 @@
+{
+  "name": "leet-code-problems",
+  "version": "1.0.0",
+  "description": "solving leet code problems in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "leet",
+    "code",
+    "problem",
+    "solving"
+  ],
+  "author": "Omar AbdelHalim",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
